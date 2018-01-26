@@ -1,0 +1,13 @@
+1、程序上传到网站根目录
+
+2、导入数据库文件mi.sql
+
+3、修改数据库链接文件 /data/config.php
+
+4、PC后台目录 /admin
+   手机后台目录 mobile/admin
+   帐号 admin  密码 admin2016
+
+
+更多模板请登录：https://sbcx.taobao.com
+
